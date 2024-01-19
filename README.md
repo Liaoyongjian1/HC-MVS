@@ -8,6 +8,5 @@ The code has been tested on Ubuntu 16.04.
 * [CGAL](http://www.cgal.org) version 4.2 or higher
 * [Boost](http://www.boost.org) version 1.56 or higher
 * [VCG](http://vcg.isti.cnr.it/vcglib)
-* [CUDA](https://developer.nvidia.com/cuda-downloads) (optional)
-* [GLFW](http://www.glfw.org) (optional)
+
 
